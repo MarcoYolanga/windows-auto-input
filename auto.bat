@@ -1,0 +1,1 @@
+powershell auto-input.ps1 -Key %1
